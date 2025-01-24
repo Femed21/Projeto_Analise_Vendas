@@ -1,0 +1,20 @@
+analise-vendas-ficticias/
+│
+├── data/                 # Dados brutos e processados
+│   ├── raw/              # Dados originais (fictícios, não processados)
+│   ├── processed/        # Dados tratados e limpos
+│
+├── notebooks/            # Notebooks Jupyter
+│   ├── 01-geracao-dados.ipynb     # Notebook para geração de dados
+│   ├── 02-analise-exploratoria.ipynb  # Notebook para EDA
+│
+├── scripts/              # Scripts Python reutilizáveis
+│   ├── pipeline.py       # Pipeline de tratamento de dados
+│
+├── reports/              # Relatórios gerados
+│   ├── vendas_insights.xlsx  # Arquivo Excel com insights
+│   ├── dashboard.pbi     # Arquivo do Power BI
+│
+├── README.md             # Documentação do projeto
+├── .gitignore            # Arquivos a serem ignorados no Git
+└── environment.yml       # Dependências do ambiente (usando conda ou pip)
