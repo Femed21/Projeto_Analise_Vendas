@@ -16,23 +16,13 @@ Este projeto tem como objetivo analisar um conjunto de dados fictício de vendas
 - Power BI  
 - Excel
 
-## 🚀 Como Executar  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
-2. Acesse a pasta do projeto:
-    cd seu-repositorio
-
-3. Instale as dependências (caso necessário):
-    pip install -r requirements.txt
 
 ## 📈 Resultados e Insights
 
 ## 🛠️ Ferramentas Utilizadas
-Python: Pré-processamento e exploração dos dados.
-SQLite: Armazenamento e manipulação dos dados com SQL.
-Power BI: Criação de dashboards interativos para visualização de insights.
+- **Python**: Pré-processamento e exploração dos dados.
+- **SQLite**: Armazenamento e manipulação dos dados com SQL.
+- **Power BI**: Criação de dashboards interativos para visualização de insights.
 
 ## Insights Obtidos
    - Faturamento Total: R$ 4.643.969,88
@@ -62,11 +52,20 @@ Power BI: Criação de dashboards interativos para visualização de insights.
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/926b22fd-2a0a-442b-bd70-92448527826a)
 
-## Como Reproduzir o Projeto
-Clone este repositório.
-Instale as bibliotecas necessárias.
-Execute o notebook para carregar e analisar os dados.
-Utilize o arquivo vendas.db para integrar com o Power BI e visualizar o dashboard.
+## 🚀 Como Executar  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2. Acesse a pasta do projeto:
+    cd seu-repositorio
+
+3. Instale as dependências (caso necessário):
+    pip install -r requirements.txt
+   
+4. Execute o notebook para carregar e analisar os dados.
+   
+5. Utilize o arquivo vendas.db para integrar com o Power BI e visualizar o dashboard.
 
 ## Conclusão
 O projeto demonstrou como a integração de diferentes tecnologias pode gerar insights valiosos para a análise de vendas. A abordagem utilizada permitiu identificar tendências e padrões que podem ser utilizados para otimizar estratégias comerciais.
